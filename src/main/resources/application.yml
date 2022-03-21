@@ -1,0 +1,7 @@
+# 端口号
+server:
+  port: 8082
+  # 应用的上下文路径，即项目路径，按照项目调整
+  servlet:
+    context-path: /rdjTool
+
